@@ -30,7 +30,7 @@ I'm Enzo, an Enthusiastic and Motivated developer studying Computer Sciences at 
 </p>
 
 
-![Les Stats GitHub de Entys](https://github-readme-stats.vercel.app/api?username=entys&show_icons=true&theme=radical)
+![Entys's GitHub stats](https://github-readme-stats.vercel.app/api?username=Entys&show_icons=true&theme=radical)
 
 ### :zap: Recent Activity
 
