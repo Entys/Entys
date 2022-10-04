@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/Entys/Entys/master/bannerEntys.png" />
 </a>
 
-# <img align="left" src="https://cdn.discordapp.com/emojis/938153240527265812.webp" width="10%" /> Hey, nice to see you.
+# Hey, nice to see you.
 
 Welcome to my page! :wave:  
 
