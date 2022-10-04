@@ -30,7 +30,7 @@ I'm Enzo, an Enthusiastic and Motivated developer studying Computer Sciences at 
 </p>
 
 
-![Vinetos's github stats](https://github-readme-stats.vercel.app/api?username=Vinetos)
+![Vinetos's github stats](https://github-readme-stats.vercel.app/api?username=Entys)
 
 ### :zap: Recent Activity
 
