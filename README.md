@@ -19,6 +19,7 @@ I'm Enzo, an Enthusiastic and Motivated developer studying Computer Sciences at 
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Python 3" src="https://img.shields.io/badge/-Python%203-F7B93E?style=flat-square&logo=python&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
   <img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
 </p>
 
